@@ -6,7 +6,7 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 </div>  
   
 
-### <div align="center">I'm Anuoluwa Akinsola, a Software Developer (Backend Dev)👨‍💻 working with 0 - 1 years experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal.</div>  
+### <div align="center">I'm Anuoluwa Akinsola, a Software Developer (Backend Dev)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal.</div>  
   
 
 - 🔭 I’m open for Junior Backend Developer Role!  
@@ -24,7 +24,7 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 <br/>  
 
 
-## My Skill Set  
+## Technical Skills & Slack  
 <table><tr><td valign="top" width="33%">
 
 
@@ -59,7 +59,43 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 <br/>  
 
 
-## Connect with me  
+## Educational Qualifications and Certifications 
+<table><tr><td valign="top" width="33%">
+
+
+
+### University of Ibadan, Nigeria 
+  Bachelor of Education - Special Education (2016 - 2019)
+  
+
+</td><td valign="top" width="33%">
+
+
+
+### Federal College of Education, (Special Oyo) 
+  Nigeria Certificate in Education - Special Education (2011 - 2015)
+
+</td><td valign="top" width="33%">
+
+### Become A Technical Program Manager 
+  LinkedIn Learning Path - 2022
+  [CertificateOfCompletion_Become a Technical Program Manager.pdf](https://github.com/Anu-Lead/Anu-Lead/files/8103416/CertificateOfCompletion_Become.a.Technical.Program.Manager.pdf)
+
+</td><td valign="top" width="33%">
+  
+### Become A SQL Developer 
+  LinkedIn Learning Path - 2022
+  [CertificateOfCompletion_Become a SQL Developer.pdf](https://github.com/Anu-Lead/Anu-Lead/files/8103414/CertificateOfCompletion_Become.a.SQL.Developer.pdf)
+
+</td><td valign="top" width="33%">
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Let's Do Amazing Things Together - Happy to Connect! 
 <div align="center">
 <a href="https://github.com/https://github.com/Anu-Lead" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -103,18 +139,9 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-
-### DO YOU LOVE SOCIAL CAUSE? LET'S SUPPORT THE COMMUNITY OF TALENTED AFRICAN LESS PRIVILEGE TO GET INTO TECH.   
 <div align="center">
-            <a href="https://www.buymeacoffee.com/Anu-Lead" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+<b> ### DO YOU LOVE SOCIAL CAUSE? <br> LET'S SUPPORT THE COMMUNITY OF TALENTED AFRICAN LESS PRIVILEGE TO GET INTO TECH.</b>   
+  
 <br />
-
-----[CertificateOfCompletion_Become a Technical Program Manager.pdf](https://github.com/Anu-Lead/Anu-Lead/files/8103416/CertificateOfCompletion_Become.a.Technical.Program.Manager.pdf) <br>
-----[CertificateOfCompletion_Become a SQL Developer.pdf](https://github.com/Anu-Lead/Anu-Lead/files/8103414/CertificateOfCompletion_Become.a.SQL.Developer.pdf)
 
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
