@@ -12,13 +12,13 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 </a>
   
 
-### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal.</div>  
+### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal. <br> I AM A LIFE-LONG LEARNER, CURIOUS WITH OPEN MIND </div>  
   
 
 - 🔭 I’m open for Junior Backend Developer Role!  
   
 
-- 🌱 I’m currently learning sharping my skills in Software Engineering and learning MYSQL for Data Science and Management.   
+- 🌱 I’m currently learning and sharping my skills in Software Engineering and MYSQL for Data Science, Engineering and Management.   
   
 
 - ❓ Ask me about anything related your Career Development. I am an enthusiast of Artificial Intelligence & Machine Learning.   
