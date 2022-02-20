@@ -1,4 +1,4 @@
-### WELCOME DEAR VISITOR, 
+### WELCOME DEAR VISITOR, - I AM A LIFE-LONG LEARNER, CURIOUS WITH OPEN MIND
 IN DOING HARD THINGS -  Simplicity Ensures Efficiency! 
 "SEE" - I LOVE DOING HARD THINGS IN THE MOST 'SIMPLIFIED WAYS'!   
 <div align="center">
@@ -12,7 +12,7 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 </a>
   
 
-### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal. <br> I AM A LIFE-LONG LEARNER, CURIOUS WITH OPEN MIND </div>  
+### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal. </div>  
   
 
 - 🔭 I’m open for Junior Backend Developer Role!  
