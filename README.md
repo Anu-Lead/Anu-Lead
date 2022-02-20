@@ -12,7 +12,7 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 </a>
   
 
-### <div align="center">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal.</div>  
+### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal.</div>  
   
 
 - 🔭 I’m open for Junior Backend Developer Role!  
