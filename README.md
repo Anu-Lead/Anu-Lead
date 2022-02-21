@@ -103,7 +103,7 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 
 ## Let's Do Amazing Things Together - Happy to Connect! 
 <div align="center">
-<a href="https://github.com/https://github.com/Anu-Lead" target="_blank">
+<a href="https://github.com/Anu-Lead" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/anuoluwa-akinsola-he-him-a5980a122/" target="_blank">
