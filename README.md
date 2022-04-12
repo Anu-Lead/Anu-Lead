@@ -1,6 +1,5 @@
-### WELCOME DEAR VISITOR, - I AM A LIFE-LONG LEARNER, CURIOUS WITH OPEN MIND
-IN DOING HARD THINGS -  Simplicity Ensures Efficiency! 
-"SEE" - I LOVE DOING HARD THINGS IN THE MOST 'SIMPLIFIED WAYS'!   
+### WELCOME DEAR, - I AM A LIFELONG LEARNER, CURIOUS WITH OPEN MIND
+Simplicity Over Complexity!  
 <div align="center">
 <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" align="center" style="width: 100%" />
 </div>  
@@ -12,19 +11,19 @@ IN DOING HARD THINGS -  Simplicity Ensures Efficiency!
 </a>
   
 
-### <div align="justify">I'm a Software Developer (Backend Focus)👨‍💻 with 6 months - 1 year working experience. I am a Leader with inclusive mindset.🚀 I have the capacity to work effectively with teams of developers and can effectively lead team to achieve a common goal. </div>  
+### <div align="justify">I'm a Junior Software Engineer => (Backend)👨‍💻 with 0 - 1 year working experience. I have the capacity to work effectively with team of developers and can effectively lead team to achieve a common goal.</div>  
   
 
 - 🔭 I’m open for Junior Backend Developer Role!  
   
 
-- 🌱 I’m currently learning and sharping my skills in Software Engineering and MYSQL for Data Science, Engineering and Management.   
+- 🌱 I’m keep learning and sharping my skills in Software Engineering.   
   
 
-- ❓ Ask me about anything related your Career Development. I am an enthusiast of Artificial Intelligence & Machine Learning.   
+- ❓ Ask me about anything related your Technical Writing. I am an enthusiast of Artificial Intelligence & Machine Learning.   
   
 
-- ⚡ Fun fact: I love good foods.  
+- ⚡ Fun fact: I am a Vigorous Reader!  
   
 
 <br/>  
