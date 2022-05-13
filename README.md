@@ -1,4 +1,4 @@
-### WELCOME DEAR, - I AM A LIFELONG LEARNER, CURIOUS WITH OPEN MIND
+### WELCOME - I AM A LIFELONG LEARNER, CURIOUS WITH OPEN MIND
 Simplicity Over Complexity!  
 <div align="center">
 <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" align="center" style="width: 100%" />
